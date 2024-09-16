@@ -10,10 +10,17 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      Kosa exploring [$SEI](https://x.com/search?q=%24SEI\&src=cashtag_click)
+      [#Defi](https://x.com/search?q=%23Defi\&src=hashtag_click)
+      [#Nfts](https://x.com/search?q=%23Nfts\&src=hashtag_click)
+      [#Memes](https://x.com/search?q=%23Memes\&src=hashtag_click) |
+      [@SeiNetwork](https://x.com/SeiNetwork)![](https://abs-0.twimg.com/emoji/v2/svg/1f534.svg)![](https://abs-0.twimg.com/emoji/v2/svg/1f4a8.svg)
+      Steward | Ascended
+      [$SEIYAN](https://x.com/search?q=%24SEIYAN\&src=cashtag_click)
+      [@Seiyantoken9000](https://x.com/Seiyantoken9000) | Council 
+      [@seiyansnft](https://x.com/seiyansnft) |
+
     actions:
       - label: Get started
         altText: ''
