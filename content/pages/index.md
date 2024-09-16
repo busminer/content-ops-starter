@@ -4,7 +4,9 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: >-
+        Kosa exploring $SEI #Defi #Nfts #Memes | @SeiNetwork Steward | Ascended
+        $SEIYAN @Seiyantoken9000 | Council  @seiyansnft |
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
