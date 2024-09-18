@@ -32,6 +32,16 @@
             "iconPosition": "left",
             "style": "secondary",
             "elementId": ""
+        },
+        {
+            "type": "Link",
+            "altText": "Twitter",
+            "url": "/https://x.com/SeiNetwork_CIS",
+            "showIcon": true,
+            "icon": "twitter",
+            "iconPosition": "left",
+            "style": "secondary",
+            "elementId": ""
         }
     ],
     "secondaryLinks": [],
