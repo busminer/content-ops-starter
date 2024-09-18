@@ -21,6 +21,17 @@
             "iconPosition": "left",
             "style": "secondary",
             "elementId": ""
+        },
+        {
+            "type": "Link",
+            "label": "Twitter",
+            "altText": "Twitter",
+            "url": "/https://twitter.com/AlexKosa1",
+            "showIcon": true,
+            "icon": "twitter",
+            "iconPosition": "left",
+            "style": "secondary",
+            "elementId": ""
         }
     ],
     "secondaryLinks": [],
