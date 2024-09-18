@@ -32,6 +32,13 @@ sections:
           - pr-16
       text:
         textAlign: left
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: auto
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
   - type: FeaturedItemsSection
     title:
       text: 'About '
