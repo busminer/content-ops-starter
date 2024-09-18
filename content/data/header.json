@@ -26,7 +26,7 @@
             "type": "Link",
             "label": "Twitter Alex Kosa",
             "altText": "Twitter Alex Kosa",
-            "url": "/https://twitter.com/AlexKosa1",
+            "url": "https://twitter.com/AlexKosa1",
             "showIcon": true,
             "icon": "twitter",
             "iconPosition": "left",
