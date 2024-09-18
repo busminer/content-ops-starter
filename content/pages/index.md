@@ -8,11 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: About me
-    text: >
-      Cryptoenthusiast since 2013, miner, trader,investor, cryptocurrency chats
-      and groups creator\owner
-
-      escrow, CM, ambassador, help, promo, etc
+    text: "Cryptoenthusiast since 2013, miner, trader,investor,\nescrow, CM, ambassador, onboarding, сommunity growth.\n\nExploring $SEI #Defi #Nfts #Memes | @SeiNetwork\U0001F534\U0001F4A8 Steward | Ascended $SEIYAN @Seiyantoken9000 | Council  @seiyansnft |\n\nCreator of\n\nhttps\\://t.me/KosaOnSei\n\nhttps\\://t.me/KosaOnSeiChat\n\n\nhttps\\://t.me/MasternodeLikePRO\nhttps\\://t.me/NEWSMasternodeLikePro\n\nBitcointalk profile Busminer\nhttps\\://bitcointalk.org/index.php?action=profile;u=121232\n\n\nTelegram\nhttps\\://t.me/Bitcoinbus\n\nDiscord\nbusminer#3957\n\nGalaxie\nhttps\\://galaxie.co/p/alexkosa\n\nTwitter\nhttps\\://twitter.com/AlexKosa1\n\nhttps\\://x.com/SeiNetwork\\_CIS\n\n\nhttps\\://twitter.com/LikeMasternode\n\nlinkedin\nhttps\\://www\\.linkedin.com/in/alex-kosa-693687175/\n\nGithub\nhttps\\://github.com/busminer\n"
     actions: []
     media:
       url: /images/sdad2.png
