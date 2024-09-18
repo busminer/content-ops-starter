@@ -8,7 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: About me
-    text: "Cryptoenthusiast since 2013, miner, trader,investor,\nescrow, CM, ambassador, onboarding, сommunity growth.\n\nExploring $SEI #Defi #Nfts #Memes | @SeiNetwork\U0001F534\U0001F4A8 Steward | Ascended $SEIYAN @Seiyantoken9000 | Council  @seiyansnft |\n\nCreator of\n\n<https://t.me/KosaOnSei>\n\n<https://t.me/KosaOnSeiChat>\n\n<https://x.com/SeiNetwork_CIS>\n\n\n\n\n\n\n\n\n\n"
+    text: "Cryptoenthusiast since 2013, miner, trader,investor,\nescrow, CM, ambassador, onboarding, сommunity growth.\n\nExploring $SEI @Seinetwork \U0001F534\U0001F4A8\n\n\\| @SeiNetwork steward\n\n\\| Ascended Seiyan in $SEIYAN @Seiyantoken9000\n\n\\| Council @seiyansnft\n\n\\| Opal protector @Seipalnft\n\n\\| Passioned by deifi, nfts, memecoins, community building, WEB 3 gaming\n\n\U0001F4CCGoals\n\n✔️Onboarding new people to Sei Network\n\n✔️Game reviews on Sei\n\n✔️Reviews of decentralized applications\n\n✔️Community building\n\n✔️Writing articles about Seinetwork\n\n✔️Be an active and helpful member of Sei community\n\n\n\n\n\nCreator of\n\n<https://t.me/KosaOnSei>\n\n<https://t.me/KosaOnSeiChat>\n\n<https://x.com/SeiNetwork_CIS>\n"
     actions: []
     media:
       url: /images/sdad2.png
