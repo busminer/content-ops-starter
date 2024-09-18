@@ -33,13 +33,6 @@ sections:
       text:
         textAlign: left
   - type: FeaturedItemsSection
-    title:
-      text: 'About '
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
     subtitle: "Kosa on Sei \U0001F534\U0001F4A8"
     items: []
     actions: []
