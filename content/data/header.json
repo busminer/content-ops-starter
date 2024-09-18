@@ -52,7 +52,6 @@
     "title": "Links",
     "logo": {
         "type": "ImageBlock",
-        "url": "/images/Sei and chill.jpg",
         "altText": "Image alt text placeholder",
         "elementId": "",
         "styles": {
