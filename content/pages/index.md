@@ -174,7 +174,7 @@ sections:
       - url: /images/Sei and chill.jpg
         altText: Vise logo
         type: ImageBlock
-      - url: /images/telus-logo.svg
+      - url: /images/kosaseiyan2.jpg
         altText: Telus logo
         type: ImageBlock
       - url: /images/contenful-logo.svg
