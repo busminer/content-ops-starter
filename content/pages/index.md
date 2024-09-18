@@ -32,23 +32,6 @@ sections:
           - pr-16
       text:
         textAlign: left
-  - type: FeaturedItemsSection
-    subtitle: "Kosa on Sei \U0001F534\U0001F4A8"
-    items: []
-    actions: []
-    elementId: ''
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pb-16
-          - pt-16
-          - pl-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - subtitle: Award winning enterprises trust us
     images:
       - altText: Empathy logo
