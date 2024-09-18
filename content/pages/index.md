@@ -8,7 +8,11 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: About me
-    text: ''
+    text: >
+      Cryptoenthusiast since 2013, miner, trader,investor, cryptocurrency chats
+      and groups creator\owner
+
+      escrow, CM, ambassador, help, promo, etc
     actions: []
     media:
       url: /images/sdad2.png
