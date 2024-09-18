@@ -58,7 +58,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: 'Kosa on Sei '
+    subtitle: "Kosa on Sei \U0001F534\U0001F4A8"
     items:
       - type: FeaturedItem
         title: 500k
