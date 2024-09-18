@@ -7,7 +7,7 @@ sections:
       text: ''
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: About me
     text: ''
     actions: []
     media:
