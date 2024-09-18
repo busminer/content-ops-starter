@@ -39,7 +39,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/MAX_0038.jpg
+      url: /images/P70707-162623.jpg
   - type: FeaturedItemsSection
     title:
       text: 'About '
