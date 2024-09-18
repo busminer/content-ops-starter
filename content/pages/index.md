@@ -39,6 +39,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/Sei and chill.jpg
   - type: FeaturedItemsSection
     title:
       text: 'About '
