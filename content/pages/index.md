@@ -171,7 +171,7 @@ sections:
     images:
       - altText: Empathy logo
         type: ImageBlock
-      - url: /images/vise-logo.svg
+      - url: /images/Sei and chill.jpg
         altText: Vise logo
         type: ImageBlock
       - url: /images/telus-logo.svg
