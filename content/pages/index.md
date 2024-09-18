@@ -16,7 +16,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: "Kosa on Sei \U0001F534\U0001F4A8"
       color: text-primary
       type: Badge
     elementId: ''
