@@ -41,7 +41,8 @@
             "icon": "twitter",
             "iconPosition": "left",
             "style": "secondary",
-            "elementId": ""
+            "elementId": "",
+            "label": "SeiNetwork_CIS"
         }
     ],
     "secondaryLinks": [],
