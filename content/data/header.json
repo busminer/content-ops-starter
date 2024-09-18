@@ -10,6 +10,17 @@
             "iconPosition": "left",
             "style": "secondary",
             "elementId": ""
+        },
+        {
+            "type": "Link",
+            "label": "GitHub",
+            "altText": "GitHub",
+            "url": "/https://github.com/busminer",
+            "showIcon": true,
+            "icon": "github",
+            "iconPosition": "left",
+            "style": "secondary",
+            "elementId": ""
         }
     ],
     "secondaryLinks": [],
