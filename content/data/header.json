@@ -14,7 +14,7 @@
         {
             "type": "Link",
             "label": "",
-            "altText": "GitHub",
+            "altText": "",
             "url": "https://github.com/busminer",
             "showIcon": true,
             "icon": "github",
