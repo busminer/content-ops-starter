@@ -13,7 +13,7 @@
         },
         {
             "type": "Link",
-            "label": "GitHub",
+            "label": "",
             "altText": "GitHub",
             "url": "https://github.com/busminer",
             "showIcon": true,
